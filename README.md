@@ -74,13 +74,8 @@ Social-Media-Analyzer-Main/
 ├── templates/            # HTML templates
 │   ├── index.html
 ├── static/               # Static files (CSS, JS, images)
-│   ├── APIHandler.js
-│   ├── InputHandler.js
-│   ├── RealTimeUpdates.js
-│   ├── SuggestionsDisplay.js
-│   ├── UIUpdater.js
-│   ├── style.css
-│   ├── index.js
+│   ├── js/
+│   ├── css/
 ├── models/               # Models for predictions
 ├── .env                  # Environment variables
 └── README.md             # Project documentation
